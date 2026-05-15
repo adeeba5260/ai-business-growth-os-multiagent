@@ -50,6 +50,9 @@ python -m streamlit run ui.py
 ## Architecture Diagram
 
 User Input → AI Agents → Groq API → Strategy Output → Dashboard
+## Architecture Diagram
+
+![Architecture](images/architecture.png)
 
 ---
 
